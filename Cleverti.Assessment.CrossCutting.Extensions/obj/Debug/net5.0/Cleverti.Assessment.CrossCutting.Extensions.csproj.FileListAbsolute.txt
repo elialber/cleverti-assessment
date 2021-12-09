@@ -1,0 +1,12 @@
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.CrossCutting.Extensions\bin\Debug\net5.0\Cleverti.Assessment.CrossCutting.Extensions.deps.json
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.CrossCutting.Extensions\bin\Debug\net5.0\Cleverti.Assessment.CrossCutting.Extensions.dll
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.CrossCutting.Extensions\bin\Debug\net5.0\ref\Cleverti.Assessment.CrossCutting.Extensions.dll
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.CrossCutting.Extensions\bin\Debug\net5.0\Cleverti.Assessment.CrossCutting.Extensions.pdb
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.CrossCutting.Extensions\obj\Debug\net5.0\Cleverti.Assessment.CrossCutting.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.CrossCutting.Extensions\obj\Debug\net5.0\Cleverti.Assessment.CrossCutting.Extensions.AssemblyInfoInputs.cache
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.CrossCutting.Extensions\obj\Debug\net5.0\Cleverti.Assessment.CrossCutting.Extensions.AssemblyInfo.cs
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.CrossCutting.Extensions\obj\Debug\net5.0\Cleverti.Assessment.CrossCutting.Extensions.csproj.CoreCompileInputs.cache
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.CrossCutting.Extensions\obj\Debug\net5.0\Cleverti.Assessment.CrossCutting.Extensions.dll
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.CrossCutting.Extensions\obj\Debug\net5.0\ref\Cleverti.Assessment.CrossCutting.Extensions.dll
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.CrossCutting.Extensions\obj\Debug\net5.0\Cleverti.Assessment.CrossCutting.Extensions.pdb
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.CrossCutting.Extensions\obj\Debug\net5.0\Cleverti.Assessment.CrossCutting.Extensions.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Application\bin\Debug\net5.0\Cleverti.Assessment.Application.deps.json
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Application\bin\Debug\net5.0\Cleverti.Assessment.Application.dll
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Application\bin\Debug\net5.0\ref\Cleverti.Assessment.Application.dll
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Application\bin\Debug\net5.0\Cleverti.Assessment.Application.pdb
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Application\obj\Debug\net5.0\Cleverti.Assessment.Application.csproj.AssemblyReference.cache
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Application\obj\Debug\net5.0\Cleverti.Assessment.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Application\obj\Debug\net5.0\Cleverti.Assessment.Application.AssemblyInfoInputs.cache
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Application\obj\Debug\net5.0\Cleverti.Assessment.Application.AssemblyInfo.cs
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Application\obj\Debug\net5.0\Cleverti.Assessment.Application.csproj.CoreCompileInputs.cache
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Application\obj\Debug\net5.0\Cleverti.Assessment.Application.dll
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Application\obj\Debug\net5.0\ref\Cleverti.Assessment.Application.dll
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Application\obj\Debug\net5.0\Cleverti.Assessment.Application.pdb
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Application\bin\Debug\net5.0\Cleverti.Assessment.Domain.dll
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Application\bin\Debug\net5.0\Cleverti.Assessment.Domain.pdb
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Application\obj\Debug\net5.0\Cleverti.Assessment.Application.csproj.CopyComplete

@@ -1,0 +1,12 @@
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Domain\obj\Debug\net5.0\Cleverti.Assessment.Domain.csproj.AssemblyReference.cache
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Domain\obj\Debug\net5.0\Cleverti.Assessment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Domain\obj\Debug\net5.0\Cleverti.Assessment.Domain.AssemblyInfoInputs.cache
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Domain\obj\Debug\net5.0\Cleverti.Assessment.Domain.AssemblyInfo.cs
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Domain\obj\Debug\net5.0\Cleverti.Assessment.Domain.csproj.CoreCompileInputs.cache
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Domain\bin\Debug\net5.0\Cleverti.Assessment.Domain.deps.json
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Domain\bin\Debug\net5.0\Cleverti.Assessment.Domain.dll
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Domain\bin\Debug\net5.0\ref\Cleverti.Assessment.Domain.dll
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Domain\bin\Debug\net5.0\Cleverti.Assessment.Domain.pdb
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Domain\obj\Debug\net5.0\Cleverti.Assessment.Domain.dll
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Domain\obj\Debug\net5.0\ref\Cleverti.Assessment.Domain.dll
+D:\01.Dev\12.Assessments\Cleverti\Cleverti.Assessment\Cleverti.Assessment.Domain\obj\Debug\net5.0\Cleverti.Assessment.Domain.pdb
